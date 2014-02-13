@@ -1,8 +1,8 @@
 {
-  "name": "your-lib-name-here",
+  "name": "ng-paginate-filter",
   "version": "0.0.1",
   "description": "A description about how Lineman helped you build your lib",
-  "homepage": "https://your/lib/name/here",
+  "homepage": "https://github.com/gaslight/ng-paginate-filter",
   "author": {
     "name": "John Doe",
     "company": "ACME, Inc."
